@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# Backup files
+*_backup.py
+*_backup_*.py
+*_backup.js
+*_backup_*.js
+
+# Test screenshots
+test_screenshot*
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# IDE files
+.vscode/
+.idea/
+
+# Python cache
+.pytest_cache/
+
+# Logs
+*.log
