@@ -1,5 +1,11 @@
 # AI-ScamGuard 🛡️
 
+## 🚀 Live Demo
+
+👉 **[Try AI-ScamGuard Live](https://ai-scamguard.onrender.com)**
+
+> The live application is hosted on Render. The free instance may take a little time to wake up after inactivity.
+
 AI-ScamGuard is an AI-powered scam detection system designed to analyze suspicious messages, emails, URLs, and screenshots.
 
 The system combines rule-based detection, machine learning, URL analysis, and OCR to identify common scam indicators.
